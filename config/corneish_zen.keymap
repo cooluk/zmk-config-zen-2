@@ -57,10 +57,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TILDE  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH   &kp DOLLAR  &kp PERCENT        &kp CARET        &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DEL
-&trans     &kp LC(A)        &kp LC(S)    &kp LC(D)  &kp LC(F)   &kp LC(G)          &kp LEFT         &kp UNDERSCORE   &kp PLUS      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE
-&trans     &kp LC(Z)        &kp LC(X)    &kp LC(C)  &kp LC(V)   &rgb_ug RGB_EFF    &rgb_ug RGB_EFR  &rgb_ug RGB_SPI  &kp HOME      &kp PAGE_DOWN         &kp PAGE_DOWN          &kp END
-                                         &trans     &trans      &trans             &trans           &mo 3            &trans
+&kp TILDE      &kp EXCLAMATION  &kp AT_SIGN  &kp HASH   &kp DOLLAR  &kp PERCENT        &kp CARET        &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DEL
+&trans         &kp LC(A)        &kp LC(S)    &kp LC(D)  &kp LC(F)   &kp LC(G)          &kp LEFT         &kp UNDERSCORE   &kp PLUS      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE
+&kp RIGHT_ALT  &kp LC(Z)        &kp LC(X)    &kp LC(C)  &kp LC(V)   &rgb_ug RGB_EFF    &rgb_ug RGB_EFR  &rgb_ug RGB_SPI  &kp HOME      &kp PAGE_DOWN         &kp PAGE_DOWN          &kp END
+                                             &trans     &trans      &trans             &trans           &mo 3            &trans
             >;
         };
 
